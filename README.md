@@ -204,9 +204,13 @@ A healthcare application supporting clinic management, appointment booking, toke
 
 ## 📈 Contribution Activity
 
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambika1810&theme=github-compact" width="100%" alt="GitHub Contribution Activity Graph" />
+  <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/output/github-contribution-grid-snake.svg"
+       alt="GitHub Contribution Snake"
+       width="100%" />
 </div>
+
 
 ## 👀 Profile Visitors
 
