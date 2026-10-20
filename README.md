@@ -93,32 +93,33 @@
     </td>
     
 
+
 <td width="50%" valign="top">
   <h3 align="center">📡 SmartConnect — iOS App</h3>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/smart-connect/smartconnect-1.png"
+    <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/smartconnect/smartconnect-1.png"
          width="180"
-         alt="SmartConnect iOS application"/>
+         alt="SmartConnect iOS app screenshot"/>
   </p>
 
   <p align="center">
-    A native iOS project exploring location-based features
-    and nearby-device connectivity.
+    A native iOS project exploring saved locations,
+    nearby-device discovery, and device ranging.
   </p>
 
   <p align="center">
-    <strong>SwiftUI · MapKit · BLE · UWB · NFC · Vapor</strong>
+    <strong>SwiftUI · MapKit · BLE · UWB · NFC</strong>
   </p>
 
   <p align="center">
+    <a href="https://github.com/ambika1810/SmartConnect-iOS">
+      View iOS Source Code
+    </a>
+    ·
     <a href="https://github.com/ambika1810/SmartConnectAPI">
       View Backend API
     </a>
-  </p>
-
-  <p align="center">
-    <em>iOS source code maintained in Xcode.</em>
   </p>
 </td>
 
