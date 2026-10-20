@@ -140,3 +140,44 @@ A healthcare application supporting clinic management, appointment booking, toke
 <p align="center">
   <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/doctoplus/doctoplus-1.png" width="180" alt="DoctoPlus Patient App Screenshot"/>
 </p>
+
+
+---
+
+## 🛠️ Skills, Tools & Technologies
+
+### 📱 iOS Development
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+### 🏗️ Architecture & Programming
+![MVVM](https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-7952B3?style=for-the-badge)
+![Combine](https://img.shields.io/badge/Combine-007AFF?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Vapor](https://img.shields.io/badge/Vapor-0D0D0D?style=for-the-badge&logo=vapor&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🔧 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🚀 Additional Experience
+- Core Data and JSON
+- Authentication and authorization
+- App Store Connect and app deployment
+- Deep linking and third-party SDK integration
+- LiveKit real-time video interviews
+- BLE, UWB, NFC and MapKit
+- Auto Layout and debugging
+- Apollo GraphQL integration
