@@ -36,7 +36,8 @@ A role-based platform connecting job seekers, employees, managers, and HR teams 
 #### 📱 App Screenshots
 
 <p align="center">
-  <img src="./assets/screenshots/careeriq/careerIQ-1.png" width="200" alt="CareerIQ Screenshot 1" />
-  <img src="./assets/screenshots/careeriq/careerIQ-2.png" width="200" alt="CareerIQ Screenshot 2" />
-  <img src="./assets/screenshots/careeriq/careerIQ-3.png" width="200" alt="CareerIQ Screenshot 3" />
+  <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-1.png" width="200" alt="CareerIQ Screenshot 1" />
+  <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-2.png" width="200" alt="CareerIQ Screenshot 2" />
+  <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-3.png" width="200" alt="CareerIQ Screenshot 3" />
+  <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-4.png" width="200" alt="CareerIQ Screenshot 3" />
 </p>
