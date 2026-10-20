@@ -199,3 +199,34 @@ A healthcare application supporting clinic management, appointment booking, toke
 
 </div>
 
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambika1810&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+
+</div>
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=ambika1810&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+  **Thanks for visiting my profile!** 👋
+
+  💼 Open to iOS Developer opportunities
+
+  <a href="https://www.linkedin.com/in/ambika-patil-a76954441/">Connect on LinkedIn</a> ·
+  <a href="https://ambika1810.github.io/ambika-portfolio/">Explore My Portfolio</a>
+
+</div>
+
