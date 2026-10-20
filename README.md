@@ -75,3 +75,34 @@ International e-commerce app for shopping electronics, apparel, mobile phones, b
     <td align="center"><img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/ubuy/ubuy-3.png" width="150" alt="Ubuy Screenshot 3"/></td>
   </tr>
 </table>
+
+### 🎓 OTM Training App
+
+A mobile training application providing access to training content and learning resources.
+
+**App:** [View OTM Training on the App Store](https://apps.apple.com/in/app/otm-training/id6448177920)
+
+#### 📱 App Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otm-training/otm-1.png" width="130" alt="OTM Training Screenshot 1"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otm-training/otm-2.png" width="130" alt="OTM Training Screenshot 2"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otm-training/otm-3.png" width="130" alt="OTM Training Screenshot 3"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otm-training/otm-4.png" width="130" alt="OTM Training Screenshot 4"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otm-training/otm-5.png" width="130" alt="OTM Training Screenshot 5"/>
+    </td>
+    <td width="33%"></td>
+  </tr>
+</table>
