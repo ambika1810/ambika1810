@@ -88,7 +88,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📡 SmartConnect</h3>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/smartconnect/smartconnect-1.png" width="170" alt="SmartConnect iOS app screenshot"/>
+        <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/smart-connect/smartconnect-1.png" width="170" alt="SmartConnect iOS app screenshot"/>
       </p>
       <p>Native iOS connectivity project exploring saved locations, nearby-device discovery, and ranging.</p>
       <p><strong>SwiftUI · MapKit · BLE · UWB · NFC</strong></p>
