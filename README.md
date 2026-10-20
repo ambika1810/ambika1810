@@ -87,21 +87,21 @@ A mobile training application providing access to training content and learning 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otm-training/otm-1.png" width="130" alt="OTM Training Screenshot 1"/>
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otmtraining/otm-1.png" width="130" alt="OTM Training Screenshot 1"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otm-training/otm-2.png" width="130" alt="OTM Training Screenshot 2"/>
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otmtraining/otm-2.png" width="130" alt="OTM Training Screenshot 2"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otm-training/otm-3.png" width="130" alt="OTM Training Screenshot 3"/>
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otmtraining/otm-3.png" width="130" alt="OTM Training Screenshot 3"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otm-training/otm-4.png" width="130" alt="OTM Training Screenshot 4"/>
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otmtraining/otm-4.png" width="130" alt="OTM Training Screenshot 4"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otm-training/otm-5.png" width="130" alt="OTM Training Screenshot 5"/>
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otmtraining/otm-5.png" width="130" alt="OTM Training Screenshot 5"/>
     </td>
     <td width="33%"></td>
   </tr>
