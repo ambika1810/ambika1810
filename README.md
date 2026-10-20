@@ -96,7 +96,7 @@
   <h3 align="center">📡 SmartConnect</h3>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/smartconnect/smartconnect-1.png"
+    <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/smart-connect/smartconnect-1.png"
          width="180"
          alt="SmartConnect iOS app screenshot"/>
   </p>
