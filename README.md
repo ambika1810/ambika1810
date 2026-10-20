@@ -35,25 +35,27 @@ A role-based platform connecting job seekers, employees, managers, and HR teams 
 
 #### 📱 App Screenshots
 
+#### 📱 CareerIQ App Screenshots
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <strong>CareerIQ — Screenshot 1</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-1.png" width="280" alt="CareerIQ Screenshot 1"/>
+      <strong>Screenshot 1</strong><br/><br/>
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-1.png" width="180" alt="CareerIQ Screenshot 1"/>
     </td>
     <td align="center" width="50%">
-      <strong>CareerIQ — Screenshot 2</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-2.png" width="280" alt="CareerIQ Screenshot 2"/>
+      <strong>Screenshot 2</strong><br/><br/>
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-2.png" width="180" alt="CareerIQ Screenshot 2"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>CareerIQ — Screenshot 3</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-3.png" width="280" alt="CareerIQ Screenshot 3"/>
+      <strong>Screenshot 3</strong><br/><br/>
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-3.png" width="180" alt="CareerIQ Screenshot 3"/>
     </td>
     <td align="center" width="50%">
-      <strong>CareerIQ — Screenshot 4</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-4.png" width="280" alt="CareerIQ Screenshot 4"/>
+      <strong>Screenshot 4</strong><br/><br/>
+      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-4.png" width="180" alt="CareerIQ Screenshot 4"/>
     </td>
   </tr>
 </table>
