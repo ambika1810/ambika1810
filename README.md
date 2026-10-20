@@ -57,3 +57,21 @@ A role-based platform connecting job seekers, employees, managers, and HR teams 
     </td>
   </tr>
 </table>
+
+### 🛍️ Ubuy — International Shopping App
+
+International e-commerce app for shopping electronics, apparel, mobile phones, beauty products, and more.
+
+**Tech Stack:** Swift · UIKit · REST APIs
+
+**App:** [View Ubuy on the App Store](https://apps.apple.com/in/app/ubuy-international-shopping/id613084551)
+
+#### 📱 App Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/ubuy/ubuy-1.png" width="150" alt="Ubuy Screenshot 1"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/ubuy/ubuy-2.png" width="150" alt="Ubuy Screenshot 2"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/ubuy/ubuy-3.png" width="150" alt="Ubuy Screenshot 3"/></td>
+  </tr>
+</table>
