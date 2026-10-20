@@ -122,7 +122,7 @@ A SwiftUI e-commerce project exploring product listings, reusable UI components,
 ### 🎬 ShopEasy Demo Video
 
 <p align="center">
-  <a href="https://github.com/ambika1810/ambika1810/blob/main/assets/screenshots/shopeasy/shopeasy-demo.mp4">
+  <a href="https://github.com/ambika1810/ambika1810/blob/main/assets/screenshots/shopeasy/shopeasy-demo-small.mp4">
     ▶️ Watch ShopEasy Demo Video
   </a>
 </p>
