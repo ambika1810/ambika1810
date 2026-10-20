@@ -33,10 +33,6 @@ A role-based platform connecting job seekers, employees, managers, and HR teams 
 
 **Tech Stack:** SwiftUI · MVVM · Vapor · PostgreSQL · JWT · LiveKit
 
-#### 📱 App Screenshots
-
-#### 📱 CareerIQ App Screenshots
-
 #### 📱 CareerIQ App Screenshots
 
 <table>
