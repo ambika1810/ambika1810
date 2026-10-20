@@ -17,9 +17,6 @@
 </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=ambika1810&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="GitHub profile views" />
-
-
 </div>
 
 ---
