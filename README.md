@@ -124,3 +124,19 @@ A mobile training application providing access to training content and learning 
     ▶️ Watch or Download ShopEasy Demo
   </a>
 </p>
+
+---
+
+### 🏥 DoctoPlus — Patient App
+
+A healthcare application supporting clinic management, appointment booking, token generation, and queue progress tracking.
+
+**Tech Stack:** Swift · UIKit · REST APIs · JSON
+
+**Project Website:** [Visit DoctoPlus](https://doctoplus.in)
+
+#### 📱 App Screenshot
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/doctoplus/doctoplus-1.png" width="180" alt="DoctoPlus Patient App Screenshot"/>
+</p>
