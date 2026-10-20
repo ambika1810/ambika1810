@@ -92,30 +92,36 @@
       <p><a href="https://apps.apple.com/in/app/otm-training/id6448177920">View on App Store</a></p>
     </td>
     
+
 <td width="50%" valign="top">
-  <h3 align="center">📡 SmartConnect</h3>
+  <h3 align="center">📡 SmartConnect — iOS App</h3>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/smart-connect/smartconnect-1.png"
+    <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/smartconnect/smartconnect-1.png"
          width="180"
-         alt="SmartConnect iOS app screenshot"/>
+         alt="SmartConnect iOS application"/>
   </p>
 
   <p align="center">
-    A connectivity app exploring saved locations,
-    nearby-device discovery, and device ranging.
+    A native iOS project exploring location-based features
+    and nearby-device connectivity.
   </p>
 
   <p align="center">
-    <strong>SwiftUI · MapKit · BLE · UWB · NFC</strong>
+    <strong>SwiftUI · MapKit · BLE · UWB · NFC · Vapor</strong>
   </p>
 
   <p align="center">
     <a href="https://github.com/ambika1810/SmartConnectAPI">
-      View Backend Repository
+      View Backend API
     </a>
   </p>
+
+  <p align="center">
+    <em>iOS source code maintained in Xcode.</em>
+  </p>
 </td>
+
 
   </tr>
 </table>
