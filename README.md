@@ -201,12 +201,11 @@ A healthcare application supporting clinic management, appointment booking, toke
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambika1810&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambika1810&theme=github-compact" width="100%" alt="GitHub Contribution Activity Graph" />
 </div>
 
 ## 👀 Profile Visitors
