@@ -181,3 +181,21 @@ A healthcare application supporting clinic management, appointment booking, toke
 - BLE, UWB, NFC and MapKit
 - Auto Layout and debugging
 - Apollo GraphQL integration
+
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ambika1810&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ambika's GitHub Stats" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambika1810&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=ambika1810&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
