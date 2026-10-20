@@ -16,7 +16,9 @@
   <a href="https://github.com/ambika1810">GitHub</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ambika1810&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img src="https://komarev.com/ghpvc/?username=ambika1810&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="GitHub profile views" />
+
 
 </div>
 
