@@ -1,4 +1,4 @@
-html
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ambika+Patil+%F0%9F%91%8B;iOS+Developer+%F0%9F%93%B1;Swift+%7C+SwiftUI+%7C+UIKit;Building+Smart+iOS+Experiences"
