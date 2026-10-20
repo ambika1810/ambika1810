@@ -107,18 +107,22 @@ A mobile training application providing access to training content and learning 
   </tr>
 </table>
 
-### 🛒 ShopEasy — GraphQL E-Commerce App
+## 🛒 ShopEasy — GraphQL E-Commerce App
 
 A SwiftUI e-commerce project exploring product listings, reusable UI components, GraphQL integration, and CI/CD workflows.
 
 **Tech Stack:** SwiftUI · MVVM · GraphQL · Apollo · CI/CD
 
-#### 📱 App Screenshot
+### 📱 App Screenshot
 
 <p align="center">
-  <img src="./assets/screenshots/shopeasy/shopeasy-1.png" width="200" alt="ShopEasy App Screenshot"/>
+  <img src="./assets/screenshots/shopeasy/shopeasy-1.png" width="180" alt="ShopEasy App Screenshot"/>
 </p>
 
-#### 🎬 App Demo
+### 🎬 App Demo Video
 
-[▶️ Watch the ShopEasy demo video](./assets/videos/shopeasy-demo.mp4)
+<p align="center">
+  <a href="./assets/screenshots/shopeasy/YOUR-VIDEO-FILENAME.mp4">
+    ▶️ Watch the ShopEasy Demo Video
+  </a>
+</p>
