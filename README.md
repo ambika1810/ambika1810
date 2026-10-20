@@ -22,8 +22,25 @@
     <a href="mailto:ambikap1899@gmail.com">Email</a>
   </p>
 
+
+## 💼 CareerIQ — Career & Employee Platform
+
+A role-based platform connecting job seekers, employees, managers, and HR teams through modern mobile experiences.
+
+**Tech Stack:** SwiftUI · MVVM · Vapor · PostgreSQL · JWT · LiveKit
+
+### 📱 App Screenshots
+
+<p align="center">
+  <img src="./assets/screenshots/careeriq/careerIq-1.png" width="200" alt="CareerIQ Screenshot 1" />
+  <img src="./assets/screenshots/careeriq/careerIq-2.png" width="200" alt="CareerIQ Screenshot 2" />
+  <img src="./assets/screenshots/careeriq/careerIq-3.png" width="200" alt="CareerIQ Screenshot 3" />
+  <img src="./assets/screenshots/careeriq/careerIq-4.png" width="200" alt="CareerIQ Screenshot 4" />
+</p>
+
+
 </div>
 
 
-```
+
 
