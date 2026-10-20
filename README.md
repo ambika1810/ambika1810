@@ -25,121 +25,137 @@
 
 ---
 
-## 💼 Projects
-
-### CareerIQ — Career & Employee Platform
-
-A role-based platform connecting job seekers, employees, managers, and HR teams through modern mobile experiences.
-
-**Tech Stack:** SwiftUI · MVVM · Vapor · PostgreSQL · JWT · LiveKit
-
-#### 📱 CareerIQ App Screenshots
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Screenshot 1</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIq-1.png" width="150" alt="CareerIQ Screenshot 1"/>
-    </td>
-    <td align="center" width="50%">
-      <strong>Screenshot 2</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-2.png" width="150" alt="CareerIQ Screenshot 2"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Screenshot 3</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIQ-3.png" width="150" alt="CareerIQ Screenshot 3"/>
-    </td>
-    <td align="center" width="50%">
-      <strong>Screenshot 4</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/careeriq/careerIq-4.png" width="150" alt="CareerIQ Screenshot 4"/>
-    </td>
-  </tr>
-</table>
-
-### 🛍️ Ubuy — International Shopping App
-
-International e-commerce app for shopping electronics, apparel, mobile phones, beauty products, and more.
-
-**Tech Stack:** Swift · UIKit · REST APIs
-
-**App:** [View Ubuy on the App Store](https://apps.apple.com/in/app/ubuy-international-shopping/id613084551)
-
-#### 📱 App Screenshots
-
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/ubuy/ubuy-1.png" width="150" alt="Ubuy Screenshot 1"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/ubuy/ubuy-2.png" width="150" alt="Ubuy Screenshot 2"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/ubuy/ubuy-3.png" width="150" alt="Ubuy Screenshot 3"/></td>
-  </tr>
-</table>
-
-### 🎓 OTM Training App
-
-A mobile training application providing access to training content and learning resources.
-
-**App:** [View OTM Training on the App Store](https://apps.apple.com/in/app/otm-training/id6448177920)
-
-#### 📱 App Screenshots
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otmtraining/otm-1.png" width="130" alt="OTM Training Screenshot 1"/>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otmtraining/otm-2.png" width="130" alt="OTM Training Screenshot 2"/>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otmtraining/otm-3.png" width="130" alt="OTM Training Screenshot 3"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otmtraining/otm-4.png" width="130" alt="OTM Training Screenshot 4"/>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/otmtraining/otm-5.png" width="130" alt="OTM Training Screenshot 5"/>
-    </td>
-    <td width="33%"></td>
-  </tr>
-</table>
-
-### 🛒 ShopEasy — GraphQL E-Commerce App
-
-**Tech Stack:** SwiftUI · MVVM · GraphQL · Apollo · CI/CD
-
-#### 📱 App Screenshot
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/shopeasy/shopeasy-1.png" width="180" alt="ShopEasy App Screenshot"/>
-</p>
-
-#### 🎬 ShopEasy Demo Video
-
-<p align="center">
-  <a href="https://github.com/ambika1810/ambika1810/raw/refs/heads/main/assets/screenshots/shopeasy/shopeasy-demo-small.mp4">
-    ▶️ Watch or Download ShopEasy Demo
-  </a>
-</p>
 
 ---
 
-### 🏥 DoctoPlus — Patient App
-
-A healthcare application supporting clinic management, appointment booking, token generation, and queue progress tracking.
-
-**Tech Stack:** Swift · UIKit · REST APIs · JSON
-
-**Project Website:** [Visit DoctoPlus](https://doctoplus.in)
-
-#### 📱 App Screenshot
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ambika1810/ambika1810/main/assets/screenshots/doctoplus/doctoplus-1.png" width="180" alt="DoctoPlus Patient App Screenshot"/>
+  A selection of my iOS applications and development projects.
 </p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 CareerIQ</h3>
+      <p align="center">
+        <img src="assets/screenshots/careeriq/careerIq-1.png"
+             width="200"
+             alt="CareerIQ iOS app screenshot"/>
+      </p>
+      <p align="center">
+        A role-based career platform with feeds, employee tools,
+        and live interviews.
+      </p>
+      <p align="center">
+        <strong>SwiftUI · MVVM · Vapor · PostgreSQL · JWT · LiveKit</strong>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ambika1810">
+          Explore GitHub
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 ShopEasy</h3>
+      <p align="center">
+        <img src="assets/screenshots/shopeasy/shopeasy-1.png"
+             width="200"
+             alt="ShopEasy iOS app screenshot"/>
+      </p>
+      <p align="center">
+        An e-commerce learning project exploring GraphQL
+        integration and CI/CD workflows.
+      </p>
+      <p align="center">
+        <strong>SwiftUI · GraphQL · Apollo · CI/CD</strong>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ambika1810/ambika1810/raw/refs/heads/main/assets/screenshots/shopeasy/shopeasy-demo-small.mp4">
+          ▶ Watch Demo
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 SmartConnect</h3>
+      <p align="center">
+        <strong>SwiftUI · MapKit · BLE · UWB · NFC</strong>
+      </p>
+      <p align="center">
+        A connectivity project exploring saved locations,
+        nearby-device discovery, and ranging.
+      </p>
+      <p align="center">
+        <a href="https://github.com/ambika1810/SmartConnectAPI">
+          View Backend Repository
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 DoctoPlus</h3>
+      <p align="center">
+        <img src="assets/screenshots/doctoplus/doctoplus-1.png"
+             width="170"
+             alt="DoctoPlus patient app screenshot"/>
+      </p>
+      <p align="center">
+        A healthcare app supporting clinic management,
+        appointment booking, tokens, and queue tracking.
+      </p>
+      <p align="center">
+        <strong>Swift · UIKit · REST APIs · JSON</strong>
+      </p>
+      <p align="center">
+        <a href="https://doctoplus.in">Project Website</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌍 Ubuy</h3>
+      <p align="center">
+        <img src="assets/screenshots/ubuy/ubuy-1.png"
+             width="170"
+             alt="Ubuy international shopping app screenshot"/>
+      </p>
+      <p align="center">
+        An international shopping application for overseas
+        products and e-commerce experiences.
+      </p>
+      <p align="center">
+        <strong>iOS · Swift</strong>
+      </p>
+      <p align="center">
+        <a href="https://apps.apple.com/in/app/ubuy-international-shopping/id613084551">
+          View on App Store
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 OTM Training</h3>
+      <p align="center">
+        <img src="assets/screenshots/otmtraining/otm-1.png"
+             width="170"
+             alt="OTM Training iOS app screenshot"/>
+      </p>
+      <p align="center">
+        A native iOS training application.
+      </p>
+      <p align="center">
+        <strong>Swift · iOS Development</strong>
+      </p>
+      <p align="center">
+        <a href="https://apps.apple.com/in/app/otm-training/id6448177920">
+          View on App Store
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ---
